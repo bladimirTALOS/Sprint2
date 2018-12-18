@@ -10,13 +10,13 @@
       "TestCase": null,
       "Parameters": [
         {
-          "TempId": 86,
+          "TempId": 91,
           "DataSheetId": 613,
           "Iterations": [
             {
               "Iteration": 0,
               "Value": "Saltillo",
-              "ParameterId": 86,
+              "ParameterId": 91,
               "Name": null,
               "Created": null,
               "Modified": null
@@ -24,7 +24,7 @@
             {
               "Iteration": 1,
               "Value": "Monterrey",
-              "ParameterId": 86,
+              "ParameterId": 91,
               "Name": null,
               "Created": null,
               "Modified": null
@@ -32,7 +32,7 @@
             {
               "Iteration": 2,
               "Value": "Acapulco",
-              "ParameterId": 86,
+              "ParameterId": 91,
               "Name": null,
               "Created": null,
               "Modified": null
@@ -40,7 +40,7 @@
             {
               "Iteration": 3,
               "Value": "Guadalajara",
-              "ParameterId": 86,
+              "ParameterId": 91,
               "Name": null,
               "Created": null,
               "Modified": null
@@ -57,7 +57,7 @@
     },
     "TestSteps": [
       {
-        "TempId": 6474,
+        "TempId": 6505,
         "StepNumber": 1,
         "Description": "And execute bg_Login_feature component",
         "Locator": null,
@@ -79,17 +79,17 @@
         "Modified": null
       },
       {
-        "TempId": 6475,
+        "TempId": 6506,
         "StepNumber": 2,
         "Description": "When clicks on Hotel tab",
         "Locator": "LocatorNeeded",
-        "Value": "",
+        "Value": "2",
         "Screenshot": false,
         "StepSectionId": 2,
         "ObjectDictionaryId": null,
         "SkipStep": false,
         "Status": "Pending",
-        "ActionId": 9,
+        "ActionId": 47,
         "ComponentId": null,
         "CustomActionId": null,
         "LocatorTypeId": 4,
@@ -101,7 +101,7 @@
         "Modified": null
       },
       {
-        "TempId": 6476,
+        "TempId": 6507,
         "StepNumber": 3,
         "Description": "And type a \"<City>\"",
         "Locator": "LocatorNeeded",
@@ -123,7 +123,7 @@
         "Modified": null
       },
       {
-        "TempId": 6477,
+        "TempId": 6508,
         "StepNumber": 4,
         "Description": "And Select that option",
         "Locator": "",
@@ -145,7 +145,7 @@
         "Modified": null
       },
       {
-        "TempId": 6473,
+        "TempId": 6509,
         "StepNumber": 5,
         "Description": "And execute searches",
         "Locator": null,
