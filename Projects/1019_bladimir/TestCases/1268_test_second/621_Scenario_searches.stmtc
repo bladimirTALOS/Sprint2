@@ -9,7 +9,7 @@
     "DataSheet": null,
     "TestSteps": [
       {
-        "TempId": 6484,
+        "TempId": 6492,
         "StepNumber": 1,
         "Description": "Given Navigate \"google.com\"",
         "Locator": null,
@@ -31,7 +31,7 @@
         "Modified": null
       },
       {
-        "TempId": 6485,
+        "TempId": 6493,
         "StepNumber": 2,
         "Description": "And Wait \"3\"",
         "Locator": null,
@@ -53,20 +53,20 @@
         "Modified": null
       },
       {
-        "TempId": 6486,
+        "TempId": 6494,
         "StepNumber": 3,
         "Description": "Given Navigate \"google.com\"",
-        "Locator": null,
+        "Locator": "p",
         "Value": "google.com",
         "Screenshot": false,
         "StepSectionId": 2,
         "ObjectDictionaryId": null,
         "SkipStep": false,
         "Status": "Pending",
-        "ActionId": 27,
+        "ActionId": 43,
         "ComponentId": null,
         "CustomActionId": null,
-        "LocatorTypeId": null,
+        "LocatorTypeId": 3,
         "Parameters": [],
         "UserSays": null,
         "BotSays": null,
@@ -75,7 +75,7 @@
         "Modified": null
       },
       {
-        "TempId": 6487,
+        "TempId": 6495,
         "StepNumber": 4,
         "Description": "And Navigate \"https://opensource-demo.orangehrmlive.com/index.php\"",
         "Locator": null,
@@ -97,7 +97,7 @@
         "Modified": null
       },
       {
-        "TempId": 6488,
+        "TempId": 6496,
         "StepNumber": 5,
         "Description": "And Type \"Admin6\"",
         "Locator": "<input  name=\"x\">",
@@ -119,7 +119,7 @@
         "Modified": null
       },
       {
-        "TempId": 6489,
+        "TempId": 6497,
         "StepNumber": 6,
         "Description": "And Wait \"3\"",
         "Locator": null,
@@ -141,7 +141,7 @@
         "Modified": null
       },
       {
-        "TempId": 6483,
+        "TempId": 6491,
         "StepNumber": 7,
         "Description": null,
         "Locator": null,
