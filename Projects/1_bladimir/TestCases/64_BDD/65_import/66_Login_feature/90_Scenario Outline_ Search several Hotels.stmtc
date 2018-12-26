@@ -10,13 +10,13 @@
       "TestCase": null,
       "Parameters": [
         {
-          "TempId": 21,
+          "TempId": 11,
           "DataSheetId": 90,
           "Iterations": [
             {
               "Iteration": 0,
               "Value": "Saltillo",
-              "ParameterId": 21,
+              "ParameterId": 11,
               "Name": null,
               "Created": null,
               "Modified": null
@@ -24,7 +24,7 @@
             {
               "Iteration": 1,
               "Value": "Monterrey",
-              "ParameterId": 21,
+              "ParameterId": 11,
               "Name": null,
               "Created": null,
               "Modified": null
@@ -32,7 +32,7 @@
             {
               "Iteration": 2,
               "Value": "Acapulco",
-              "ParameterId": 21,
+              "ParameterId": 11,
               "Name": null,
               "Created": null,
               "Modified": null
@@ -40,7 +40,7 @@
             {
               "Iteration": 3,
               "Value": "Guadalajara",
-              "ParameterId": 21,
+              "ParameterId": 11,
               "Name": null,
               "Created": null,
               "Modified": null
@@ -57,7 +57,7 @@
     },
     "TestSteps": [
       {
-        "TempId": 880,
+        "TempId": 854,
         "StepNumber": 1,
         "Description": "bg_Login_feature",
         "Locator": null,
@@ -76,7 +76,7 @@
             "TestCaseId": 90,
             "TestCase": null,
             "ComponentId": 44,
-            "TestCaseStepId": 880,
+            "TestCaseStepId": 854,
             "ComponentStepId": 207,
             "Value": "https://www.phptravels.net/",
             "TempId": 0,
@@ -88,7 +88,7 @@
             "TestCaseId": 90,
             "TestCase": null,
             "ComponentId": 44,
-            "TestCaseStepId": 880,
+            "TestCaseStepId": 854,
             "ComponentStepId": 208,
             "Value": "",
             "TempId": 0,
@@ -100,7 +100,7 @@
             "TestCaseId": 90,
             "TestCase": null,
             "ComponentId": 44,
-            "TestCaseStepId": 880,
+            "TestCaseStepId": 854,
             "ComponentStepId": 209,
             "Value": "",
             "TempId": 0,
@@ -112,7 +112,7 @@
             "TestCaseId": 90,
             "TestCase": null,
             "ComponentId": 44,
-            "TestCaseStepId": 880,
+            "TestCaseStepId": 854,
             "ComponentStepId": 210,
             "Value": "",
             "TempId": 0,
@@ -124,7 +124,7 @@
             "TestCaseId": 90,
             "TestCase": null,
             "ComponentId": 44,
-            "TestCaseStepId": 880,
+            "TestCaseStepId": 854,
             "ComponentStepId": 211,
             "Value": "",
             "TempId": 0,
@@ -136,7 +136,7 @@
             "TestCaseId": 90,
             "TestCase": null,
             "ComponentId": 44,
-            "TestCaseStepId": 880,
+            "TestCaseStepId": 854,
             "ComponentStepId": 212,
             "Value": "",
             "TempId": 0,
@@ -148,7 +148,7 @@
             "TestCaseId": 90,
             "TestCase": null,
             "ComponentId": 44,
-            "TestCaseStepId": 880,
+            "TestCaseStepId": 854,
             "ComponentStepId": 213,
             "Value": "",
             "TempId": 0,
@@ -160,7 +160,7 @@
             "TestCaseId": 90,
             "TestCase": null,
             "ComponentId": 44,
-            "TestCaseStepId": 880,
+            "TestCaseStepId": 854,
             "ComponentStepId": 214,
             "Value": "",
             "TempId": 0,
@@ -172,7 +172,7 @@
             "TestCaseId": 90,
             "TestCase": null,
             "ComponentId": 44,
-            "TestCaseStepId": 880,
+            "TestCaseStepId": 854,
             "ComponentStepId": 215,
             "Value": "",
             "TempId": 0,
@@ -184,7 +184,7 @@
             "TestCaseId": 90,
             "TestCase": null,
             "ComponentId": 44,
-            "TestCaseStepId": 880,
+            "TestCaseStepId": 854,
             "ComponentStepId": 216,
             "Value": "",
             "TempId": 0,
@@ -200,7 +200,7 @@
         "Modified": null
       },
       {
-        "TempId": 881,
+        "TempId": 855,
         "StepNumber": 2,
         "Description": "When clicks on Hotel tab",
         "Locator": "LocatorNeeded",
@@ -222,7 +222,7 @@
         "Modified": null
       },
       {
-        "TempId": 882,
+        "TempId": 856,
         "StepNumber": 3,
         "Description": "And type a \"<City>\"",
         "Locator": "LocatorNeeded",
@@ -244,7 +244,7 @@
         "Modified": null
       },
       {
-        "TempId": 883,
+        "TempId": 857,
         "StepNumber": 4,
         "Description": "And wait until an option appear",
         "Locator": "",
@@ -252,7 +252,7 @@
         "Screenshot": false,
         "StepSectionId": 2,
         "ObjectDictionaryId": null,
-        "SkipStep": true,
+        "SkipStep": false,
         "Status": "Pending",
         "ActionId": 47,
         "ComponentId": null,
@@ -266,7 +266,7 @@
         "Modified": null
       },
       {
-        "TempId": 884,
+        "TempId": 858,
         "StepNumber": 5,
         "Description": "And Select that option",
         "Locator": "",
@@ -274,7 +274,7 @@
         "Screenshot": false,
         "StepSectionId": 2,
         "ObjectDictionaryId": null,
-        "SkipStep": true,
+        "SkipStep": false,
         "Status": "Pending",
         "ActionId": 67,
         "ComponentId": null,
@@ -288,7 +288,7 @@
         "Modified": null
       },
       {
-        "TempId": 885,
+        "TempId": 859,
         "StepNumber": 6,
         "Description": "Then click on the button search",
         "Locator": "LocatorNeeded",
@@ -296,7 +296,7 @@
         "Screenshot": false,
         "StepSectionId": 2,
         "ObjectDictionaryId": null,
-        "SkipStep": true,
+        "SkipStep": false,
         "Status": "Pending",
         "ActionId": 9,
         "ComponentId": null,
@@ -538,7 +538,7 @@
   {
     "TempId": 2,
     "Name": "Login_feature",
-    "Code": "Feature: Actions with login background\n   Background: Successful sign up\n      Given the user goes to \"https://www.phptravels.net/\"\n      When clicks on myAccount button\n      And Click sign up option\n      And fill the name field\n      And fill the last name field\n      And fill the email field with uniques values\n      And fill the password field\n      And fill the confirm password field\n      And Clicks on the sign up button\n      Then The account page must be displayed\n\n   Scenario Outline: Search several Hotels\n      When clicks on Hotel tab\n      And type a \"<City>\"\n      And wait until an option appear\n      And Select that option\n      Then click on the button search\n\n      Examples:\n      |DT_City  |\n      |Saltillo  |\n      |Monterrey  |\n      |Acapulco  |\n      |Guadalajara  |\n",
+    "Code": "Feature: Actions with login background\n   Background: Successful sign up\n      Given the user goes to \"https://www.phptravels.net/\"\n      When clicks on myAccount button\n      And Click sign up option\n      And fill the name field\n      And fill the last name field\n      And fill the email field with uniques values\n      And fill the password field\n      And fill the confirm password field\n      And Clicks on the sign up button\n      Then The account page must be displayed\n\n   Scenario Outline: Search several Hotels\n      When clicks on Hotel tab\n      And type a \"<City>\"\n      And wait until an option appear\n      And Select that option\n      Then click on the button search\n\n      Examples:\n      |DT_City  |\n      |Saltillo  |\n      |Monterrey  |\n      |Acapulco  |\n      |Guadalajara  |\n\n   Scenario: Comment an Offer\n      When clicks on the Offers tab\n      And select the summer vacation offer\n      Then the summer vacation page must appear\n      And type a name in the name field\n      And type a phone in the phone field\n      And type a comment in the comment field\n      And Click the contact button\n",
     "FolderId": 66,
     "BGComponentId": 44,
     "OriginalScript": "Feature: Actions with login background\n   Background: Successful sign up\n      Given the user goes to \"https://www.phptravels.net/\"\n      When clicks on myAccount button\n      And Click sign up option\n      And fill the name field\n      And fill the last name field\n      And fill the email field with uniques values\n      And fill the password field\n      And fill the confirm password field\n      And Clicks on the sign up button\n      Then The account page must be displayed\n\n   Scenario Outline: Search several Hotels\n      When clicks on Hotel tab\n      And type a \"<City>\"\n      And wait until an option appear\n      And Select that option\n      Then click on the button search\n\n      Examples:\n      | City        |\n      | Saltillo    |\n      | Monterrey   |\n      | Acapulco    |\n      | Guadalajara |\n\n   Scenario: Comment an Offer\n      When clicks on the Offers tab\n      And select the summer vacation offer\n      Then the summer vacation page must appear\n      And type a name in the name field\n      And type a phone in the phone field\n      And type a comment in the comment field\n      And Click the contact button\n",
