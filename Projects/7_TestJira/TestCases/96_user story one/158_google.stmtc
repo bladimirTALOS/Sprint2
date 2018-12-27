@@ -1,0 +1,39 @@
+[
+  {
+    "TempId": 158,
+    "AUT": "",
+    "Description": "Prueba que involucra a google",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 1,
+    "DataSheet": null,
+    "TestSteps": [
+      {
+        "TempId": 1179,
+        "StepNumber": 1,
+        "Description": null,
+        "Locator": null,
+        "Value": "google.com",
+        "Screenshot": false,
+        "StepSectionId": 2,
+        "ObjectDictionaryId": null,
+        "SkipStep": false,
+        "Status": "Pending",
+        "ActionId": 27,
+        "ComponentId": null,
+        "CustomActionId": null,
+        "LocatorTypeId": null,
+        "Parameters": [],
+        "UserSays": null,
+        "BotSays": null,
+        "Name": null,
+        "Created": null,
+        "Modified": null
+      }
+    ],
+    "Scenario": null,
+    "Name": "google",
+    "Created": null,
+    "Modified": null
+  }
+]
